@@ -6,6 +6,7 @@ public class Main {
 
         System.out.println("Aceasta este prima mea aplicatie Java");
         System.out.println("De fapt e a doua");
+        ro.java.misc.Main.main(args);
 
     }
 }
